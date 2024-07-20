@@ -219,7 +219,7 @@ Hero
 @media screen and (min-width: 768px) {
   .hero {
     background: linear-gradient(#64ae64, rgba(0, 0, 0, 0.7)),
-      url('./images/sageandsky-main.jpeg.jpg') center/cover no-repeat;
+      url('./images/sageandsky-main-2.jpg') center/cover no-repeat;
   }
   .hero-banner {
     padding: 0;
