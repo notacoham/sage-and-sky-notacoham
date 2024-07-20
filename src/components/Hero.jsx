@@ -7,7 +7,7 @@ const Hero = () => {
         <h1>Sage and Sky</h1>
         <p>Welcome to your journey of intuitive self-development</p>
         <a href="#tours" className="btn hero-btn">
-          explore tours
+          explore services
         </a>
       </div>
     </section>
